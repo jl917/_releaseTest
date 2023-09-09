@@ -1,3 +1,10 @@
+# [1.0.0-next.2](https://github.com/jl917/_releaseTest/compare/v1.0.0-next.1...v1.0.0-next.2) (2023-09-09)
+
+
+### Bug Fixes
+
+* release rule변경 ([8553306](https://github.com/jl917/_releaseTest/commit/85533063823362ecd16e5b8018deb709f590c604))
+
 # 1.0.0-next.1 (2023-09-09)
 
 
