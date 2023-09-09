@@ -18,6 +18,9 @@
           { "type": "docs", "scope": "README", "release": "patch" },
           { "type": "refactor", "scope": "core-*", "release": "minor" },
           { "type": "refactor", "release": "patch" },
+          { "type": "cus", "release": "patch" },
+          { "type": "cus", "scope": "core-*", "release": "minor" },
+          { "type": "cus", "scope": "new", "release": "major" },
           { "scope": "no-release", "release": false }
         ]
       }
