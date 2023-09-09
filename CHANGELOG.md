@@ -1,3 +1,5 @@
+# [1.0.0-next.3](https://github.com/jl917/_releaseTest/compare/v1.0.0-next.2...v1.0.0-next.3) (2023-09-09)
+
 # [1.0.0-next.2](https://github.com/jl917/_releaseTest/compare/v1.0.0-next.1...v1.0.0-next.2) (2023-09-09)
 
 
