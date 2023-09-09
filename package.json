@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "echo \"프로젝트 빌드\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/jl917/_releaseTest/issues"
   },
-  "homepage": "https://github.com/jl917/_releaseTest#readme"
+  "homepage": "https://github.com/jl917/_releaseTest#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^10.0.5",
+    "semantic-release": "^21.1.1"
+  }
 }
